@@ -1,4 +1,4 @@
-# English 035: The Rise of the Novel (and the rise of social media)
+# English 035: The Rise of the Novel
 
 + instructor: Rachel Sagner Buurma
 + semester: Fall 2021
@@ -122,7 +122,7 @@ This class is suggested for current and future readers, writers, critics, and re
 
 ##### October 6
 + Evelina, 300-450
-+ **Social Media Lecture 5: A Private Oriented to a Public**
++ **Social Media Lecture 5: Privacy Policies**
 
 ##### October 8
 + Short paper due by midnight
@@ -187,6 +187,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 
 ##### November 10
 + *Daisy Miller*, continued
++ **Social Media Lecture 8: Novel Platforms**
 
 ##### November 12
 + *Daisy Miller*, continued
@@ -298,17 +299,19 @@ Because novels are, almost by definition, long, some of our reading assignments 
 #### Exercises
 You will complete 9 short exercises designed to introduce you to some aspects of computationally-assisted literary study. No previous experience is required. They are graded as complete/incomplete, but cumulative excellent and creative work on them will be noticed and rewarded in your overall participation grade.
 
-#### Informal writing
+#### Informal writing and platforms: Wordpress, Google Docs, Dropbox 
 
-http://rise19.rachelsagnerbuurma.org/
+https://www.rise2021.rachelsagnerbuurma.org/
 
-We will use this site as our informal response-writing/link-and-image-sharing platform. I will invite you to create an account shortly. We will post our responses to exercises and other occasional short response assignments.  You are also welcome - invited! encouraged! - to post links with comments, images, quick thoughts, etc as they occur to you.
+We will use this Wordpress site as the place we post our responses to the computational assignments; it is also our informal response-writing/link-and-image-sharing platform. I will invite you to create an account shortly. We will post our responses to exercises and other occasional short response assignments. You are also welcome - invited! encouraged! - to post links with comments, images, quick thoughts, etc as they occur to you. The site is projected by a password which I will give you in class, so it is accessible only to us and to anyone else you share the password with.
+
+We will use Google Docs will use for short writing assignments and drafts, and Dropbox for sharing reading files and for turning in papers and projects.
 
 #### Short paper
 This is a 4-5 page paper; it will focus on detailed readings of a single novel. A series of shorter writing assignments will lead up to it. Specifics of the assignment to be discussed further in class.
 
 #### Final paper or project
-This assignment will incorporate secondary sources and some independent research (specifics of the assignment to be discussed further in class). It can take many different forms. You may choose to write a more traditional research paper; you may write a paper in the form of a longer book review; you may draft your own theory of the novel; you may create your own annotated syllabus for a "Rise of the Novel" course; you may build on our text analysis exercises to complete a project based in part or in whole on text analysis of a corpus; you may do something else. You will write a paper/project plan and and have the chance to discuss it with me. 
+This assignment will incorporate secondary sources and some independent research (specifics of the assignment to be discussed further in class). It can take many different forms. You may choose to write a more traditional research paper; you may write a paper in the form of a longer book review; you may draft your own theory of the novel; you may create your own annotated syllabus for a "Rise of the Novel" course; you may build on our text analysis exercises to complete a project based in part or in whole on text analysis of a corpus; you may do something else. You will write a paper/project plan and and have the chance to discuss it with me.
 
 #### Criticism exam
 This 50-minute exam is designed to text your knowledge of the critical and theoretical readings. We will devote a day to reviewing for it at the end of the semester. I will be very clear about the exam’s format and content.
