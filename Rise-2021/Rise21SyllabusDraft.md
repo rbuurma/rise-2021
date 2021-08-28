@@ -1,4 +1,4 @@
-# English 035: The Rise of the Novel
+# English 035: The Rise of the Novel (and the rise of social media)
 
 + instructor: Rachel Sagner Buurma
 + semester: Fall 2021
