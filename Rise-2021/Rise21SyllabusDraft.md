@@ -211,7 +211,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 + *To The Lighthouse*, continued
 + Erich Auerbach, "The Brown Stocking" from *Mimesis*
 + Discuss criticism exam
-+ Final paper/project plans due; final paper meetings with me this week and next week 
++ Final paper/project plans due; final paper meetings with me this week and next week
 
 ##### November 24
 + *To The Lighthouse*, continued
@@ -304,19 +304,11 @@ http://rise19.rachelsagnerbuurma.org/
 
 We will use this site as our informal response-writing/link-and-image-sharing platform. I will invite you to create an account shortly. We will post our responses to exercises and other occasional short response assignments.  You are also welcome - invited! encouraged! - to post links with comments, images, quick thoughts, etc as they occur to you.
 
-*Remember to keep your own copy of anything you post to Known.*
-
-When you post, think about adding tags. Assignments will have required hashtags, but you can also add your own. For example, your post for assignment 1 should include the tags #RobinsonCrusoe  #Assignment1 #NER - but you may choose to add other generally relevant tags (#list) or tags that are particular to your findings and interpretation (#capitalism #bears etc).
-
-The Known platform's privacy settings allow you to share your posts with "members only" (in this case, the other members of the class and anyone else for whom I create a guest account) or to make them "public." This is up to you; you may choose to share some posts publicly and not others. I may ask you to make responses to certain sites public.
-
-Known supports [Markdown](http://daringfireball.net/projects/markdown/), a lightweight plain text formatting syntax designed to be read by both people and machines. Documents formatted in Markdown convert easily to html, pdf and other formats (Word, etc). I don't require that you use Markdown, but if you are interested, very quick basics are [here](http://daringfireball.net/projects/markdown/); for more comprehensive info look at [Commonmark](http://spec.commonmark.org/0.22/), an effort to better specify and document Markdown.)
-
 #### Short paper
 This is a 4-5 page paper; it will focus on detailed readings of a single novel. A series of shorter writing assignments will lead up to it. Specifics of the assignment to be discussed further in class.
 
 #### Final paper or project
-This assignment will incorporate secondary sources and some independent research (specifics of the assignment to be discussed further in class). It can take many different forms. You may choose to write a more traditional research paper; you may write a paper in the form of a longer book review; you may draft your own theory of the novel; you may create your own annotated syllabus for a "Rise of the Novel" course; you may build on our text analysis exercises to complete a project based in part or in whole on text analysis of a corpus; you may do something else.
+This assignment will incorporate secondary sources and some independent research (specifics of the assignment to be discussed further in class). It can take many different forms. You may choose to write a more traditional research paper; you may write a paper in the form of a longer book review; you may draft your own theory of the novel; you may create your own annotated syllabus for a "Rise of the Novel" course; you may build on our text analysis exercises to complete a project based in part or in whole on text analysis of a corpus; you may do something else. You will write a paper/project plan and and have the chance to discuss it with me. 
 
 #### Criticism exam
 This 50-minute exam is designed to text your knowledge of the critical and theoretical readings. We will devote a day to reviewing for it at the end of the semester. I will be very clear about the exam’s format and content.
@@ -341,8 +333,8 @@ Because this is a discussion-oriented class, attendance is essential. Missing mo
 
 #### Plagiarism
 Plagiarism is a very serious offense. It includes both the direct copying of the words of another person without crediting him or her and paraphrasing the ideas of another person without giving credit. See the English department’s guidelines on how to properly cite sources here:
-http://www.swarthmore.edu/x10027.xml
-If you have any questions about how to properly cite another person’s work, please do not hesitate to ask me.
+https://www.swarthmore.edu/english-literature/citing-your-work
+If you have any questions about how to properly cite another person’s work, please do not hesitate to ask me. This is a topic we will also, of course, discuss in class.
 
 #### Distribution requirement
 This course fulfills the 18th/19th c distribution in the English major and minor. It is eligible for GSST and INPT credit. It also fulfills the College-wide Writing requirement.
@@ -350,7 +342,7 @@ This course fulfills the 18th/19th c distribution in the English major and minor
 #### Accommodations
 I want to work to make sure that everyone in this class has the access to the materials, resources, and support they need in order to learn most effectively. You are always free to talk to me about your own situation.  A key Swarthmore resource in this area is the Office of Student Disability Services. Their accommodations policy is here:
 
-> If you believe you need accommodations for a disability or a chronic medical condition, please contact Student Disability Services via email at studentdisabilityservices@swarthmore.edu to arrange an appointment to discuss your needs. As appropriate, the office will issue students with documented disabilities or medical conditions a formal Accommodations Letter. Since accommodations require early planning and are not retroactive, please contact Student Disability Services as soon as possible. For details about the accommodations process, visit the Student Disability Services website. You are also welcome to contact me [the faculty member] privately to discuss your academic needs. However, all disability-related accommodations must be arranged, in advance, through Student Disability Services.
+> If you believe you need accommodations for a disability or a chronic medical condition, please contact Student Disability Services via email at studentdisabilityservices@swarthmore.edu to arrange an appointment to discuss your needs. As appropriate, the office will issue students with documented disabilities or medical conditions a formal Accommodations Letter. Since accommodations require early planning and are not retroactive, please contact Student Disability Services as soon as possible. For details about the accommodations process, visit the Student Disability Services website. You are also welcome to contact me privately to discuss your academic needs. However, all disability-related accommodations must be arranged, in advance, through Student Disability Services.
 
 
 #### Dean's Discretionary Fund and Dean's Office resources for basic needs
