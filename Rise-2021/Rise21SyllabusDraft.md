@@ -38,11 +38,10 @@ This class is suggested for current and future readers, writers, critics, and re
 + *There, There*, Prologue (3-11)
 + George Lukacs, a page from *The Theory of the Novel*
 + close reading a novel (in class handout)
-+ **Social Media Lecture 1: The Novel and Social Media**
++ Social Media Lecture 1: The Novel and Social Media
 
 ##### September 3
 + *Robinson Crusoe*, continued
-+ http://www.harkavagrant.com/index.php?id=286
 + selection from Ian Watt, *The Rise of the Novel*
 + Exercise 1 assigned
 
@@ -53,15 +52,14 @@ This class is suggested for current and future readers, writers, critics, and re
 ##### September 8
 + *Robinson Crusoe*, 57-241
 + republication history of Robinson Crusoe
-+ **Social Media Lecture 2: Everyday People are Celebrities, Too**
++ Social Media Lecture 2: Everyday People are Celebrities, Too
 + strategies for reading criticism
-+ create your GoogleDoc and share it with me
++ http://www.harkavagrant.com/index.php?id=286
 
 ##### September 10
 + *Robinson Crusoe* continued (possibly also begin reading *Pamela*)
 + Catherine Gallagher,  "The Rise of Fictionality," pp. 336-349, 361
-+ selection from N. Scott Momaday, "The Morality of Indian Hating"
-+ Exercises 1 due
++ Exercises 1 due; exercise 2 assigned
 + short paper assigned
 
 ### Week 3: *Pamela* (1740)
@@ -73,8 +71,8 @@ This class is suggested for current and future readers, writers, critics, and re
 ##### September 15
 + *Pamela* chapter summary (pdf)
 + *Pamela* 476-503
-+ **Social Media Lecture 3: Fictional Characters Make You Real**
-+ Exercise 3 assigned
++ Social Media Lecture 3: Fictional Characters Make You Real
++ Exercise 2 due; exercise 3 assigned
 
 ##### September 17
 + Nancy Armstrong, from *Desire and Domestic Fiction*
@@ -102,8 +100,8 @@ This class is suggested for current and future readers, writers, critics, and re
 
 ##### September 29
 + *Evelina*, 200-250
-+ Exercise 4, steps 1-5 due; exercise 5 assigned
-+ **Social Media Lecture 4: Questions of Truth and Questions of Virtue Signaling**
++ Exercise 4, due; exercise 5 assigned
++ Social Media Lecture 4: Questions of Truth and Questions of Virtue Signaling
 
 ##### October 1
 + *Evelina*, 250-300
@@ -111,7 +109,7 @@ This class is suggested for current and future readers, writers, critics, and re
 + Jurgen Habermas, from *The Structural Transformation of the Public Sphere*
 + Exercise 4 write-up due
 
-**short paper thesis redraft and introduction due Oct 3**
+**short paper thesis redraft, introduction, and title due Oct 3**
 
 ### Week 6: *Evelina* (1778) continued
 
@@ -122,7 +120,7 @@ This class is suggested for current and future readers, writers, critics, and re
 
 ##### October 6
 + Evelina, 300-450
-+ **Social Media Lecture 5: Privacy Policies**
++ Social Media Lecture 5: Privacy Policies
 
 ##### October 8
 + Short paper due by midnight
@@ -132,7 +130,7 @@ This class is suggested for current and future readers, writers, critics, and re
 ### Week 7: October Holiday
 Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 
-### Week 8: *Northanger Abbey* (1778)
+### Week 8: *Northanger Abbey* (1778) and *The Woman of Colour* (1808)
 
 ##### October 18
 + *Northanger Abbey*, 36-240 (all)
@@ -143,7 +141,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 + *Northanger Abbey*, continued
 + Exercise 5 due; Exercise 6 assigned
 + reminder of Dorrit Cohn handout on narrated monologue and free indirect discourse
-+ **Social Media Lecture 6: Other People Hold You in Mind**
++ Social Media Lecture 6: Other People Hold You in Mind
 
 ##### October 22
 + *Northanger Abbey*, continued
@@ -168,7 +166,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 
 ##### November 1
 + *The Moonstone*, second half
-+ **Social Media Lecture 7: We Are Watched From Above**
++ Social Media Lecture 7: We Are Watched From Above
 
 ##### November 3
 + Exercise 6 due; exercise 7 assigned
@@ -187,12 +185,11 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 
 ##### November 10
 + *Daisy Miller*, continued
-+ **Social Media Lecture 8: Novel Platforms**
++ Social Media Lecture 8: Novel Platforms
 
 ##### November 12
 + *Daisy Miller*, continued
 + Exercise 7 due; Exercise 8 assigned
-+ + Exercise 8 warm-up: [command line the hard way](https://learnpythonthehardway.org/book/appendix-a-cli/introduction.html)
 + Jameson, "The Realist Floor-plan"
 
 ### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
@@ -254,7 +251,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 + Samuel Richardson, *Pamela*. Oxford: Oxford University Press, 2008. ISNB: 978-0199536498
 + Eliza Haywood and Henry Fielding, *Anti-Pamela and Shamela*. Toronto: Broadview Press, 2004. ISBN: 155111383X
 + Frances Burney, *Evelina*.  London: Penguin. ISNB: 0140433473
-+ Anonymous, The Woman of Color. Edited by Lyndon J. Dominique. Broadview. ISBN: 9781551111766 / 1551111764
++ Anonymous, *The Woman of Color*. Edited by Lyndon J. Dominique. Broadview. ISBN: 9781551111766 / 1551111764
  Jane Austen, *Northanger Abbey*. Penguin. ISBN: 978-0141439792
 + Wilkie Collins, *The Moonstone*
 + Henry James, *Daisy Miller and Other Tales*. Penguin. ISBN: 978-0141389776
@@ -272,6 +269,7 @@ These books, unless otherwise noted, are available at the Swarthmore bookstore. 
 + Roland Barthes, "The Reality Effect" (1968)
 + Benedict Anderson, from *Imagined Communities* (1983)
 + Ngũgĩ wa Thiong'o, from *Decolonizing the Mind*
++ N. Scott Momaday, "The Morality of Indian Hating" (1964)
 + Michel Foucault, "Panopticism" from *Discipline and Punish* (1975; English translation 1977 )
 + Dorrit Cohn, from *Transparent Minds* (1978)
 + Michael McKeon, "Generic Transformation and Social Change: Rethinking the Rise of the Novel" (1985)
@@ -281,8 +279,8 @@ These books, unless otherwise noted, are available at the Swarthmore bookstore. 
 + D.A. Miller, from *The Novel and the Police* (1988)
 + David Treuer, from *The Native American Novel: A User's Guide" (2005)
 + Erich Auerbach, from *Mimesis: The Representation of Reality in Western Literature* (1946; English translation ?)
-+ Edward Said, from *Orientalism*
-+ Sterling HolyWhiteMountain, "On Culture Shock," *New Yorker* interview
++ Edward Said, from *Orientalism* (1978)
++ Sterling HolyWhiteMountain, "On Culture Shock," *New Yorker* interview (2021)
 
 All of the critical readings will be available in our Dropbox. I will be inviting you to the Dropbox shortly; if you prefer to use an email addresses other than your Swarthmore one, make sure you let me know.
 
@@ -297,9 +295,9 @@ Because novels are, almost by definition, long, some of our reading assignments 
  I recommend that you look at the syllabus and plan to start reading longer assignments ahead of time. There may be reading quizzes – covering both novels and critical/theoretical readings - as necessary. There will also be optional reading labs.
 
 #### Exercises
-You will complete 9 short exercises designed to introduce you to some aspects of computationally-assisted literary study. No previous experience is required. They are graded as complete/incomplete, but cumulative excellent and creative work on them will be noticed and rewarded in your overall participation grade.
+You will complete 8 short exercises designed to introduce you to some aspects of computationally-assisted literary study. No previous experience is required. They are graded as complete/incomplete, but cumulative excellent and creative work on them will be noticed and rewarded in your overall participation grade.
 
-#### Informal writing and platforms: Wordpress, Google Docs, Dropbox 
+#### Informal writing and platforms: Wordpress, Google Docs, Dropbox
 
 https://www.rise2021.rachelsagnerbuurma.org/
 
@@ -369,3 +367,4 @@ The first version of this course was inspired by [Sanjay Krishnan's](http://www.
 The archival version of our syllabus will be deposited in our Dropbox folder. The most up-to-date copy of our syllabus and exercises will be available on github: https://github.com/rbuurma/rise-2021
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
+
