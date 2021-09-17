@@ -12,7 +12,7 @@ In this exercise, we will take a look at Richardson's various indexes to *Pamela
 
 ### Richardson's Indexes to *Pamela*
 
-First, take a look at the [1742 Table of Contents](/Assignment_materials/Pamela_1742_Table_of_Contents.pdf). What kind of information about the novels (*Pamela* and *Pamela in Her Exalted Condition*) does it offer you? How is it organized? What is the narrative voice like? What kinds of words are repeated, what kinds of events are described? Does this information point towards any new interpretations of *Pamela*, large or small?
+First, take a look at the [1742 Table of Contents](https://github.com/rbuurma/rise-2021/blob/main/Rise-2021/Assignment_materials/Pamela_1742_Table_of_Contents.pdf). What kind of information about the novels (*Pamela* and *Pamela in Her Exalted Condition*) does it offer you? How is it organized? What is the narrative voice like? What kinds of words are repeated, what kinds of events are described? Does this information point towards any new interpretations of *Pamela*, large or small?
 
 Next, skim through the section of the 1755 [*Collection*](https://books.google.com/books?id=e94NAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false) that deals with *Pamela* and *Pamela in Her Exalted Condition*. (You can also find a plain-text version [here](http://quod.lib.umich.edu/cgi/t/text/text-idx?c=ecco;idno=004835423.0001.000).) How does the *Collection* compare to the 1742 index?
 
