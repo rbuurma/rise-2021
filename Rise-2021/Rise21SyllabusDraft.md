@@ -43,7 +43,7 @@ This class is suggested for current and future readers, writers, critics, and re
 ##### September 3
 + *Robinson Crusoe*, continued
 + selection from Ian Watt, *The Rise of the Novel*
-+ Exercise 1 assigned
++ [Exercise 1 assigned](https://github.com/rbuurma/rise-2021/blob/main/Rise-2021/Assignments/Rise_assignment_1.md)
 
 ### Week 2: *Robinson Crusoe* (1719)
 
@@ -59,7 +59,7 @@ This class is suggested for current and future readers, writers, critics, and re
 ##### September 10
 + *Robinson Crusoe* continued (possibly also begin reading *Pamela*)
 + Catherine Gallagher,  "The Rise of Fictionality," pp. 336-349, 361
-+ Exercises 1 due; exercise 2 assigned
++ Exercises 1 due; [exercise 2](https://github.com/rbuurma/rise-2021/blob/main/Rise-2021/Assignments/Rise_assignment_2.md) assigned
 + short paper assigned
 
 ### Week 3: *Pamela* (1740)
@@ -72,7 +72,7 @@ This class is suggested for current and future readers, writers, critics, and re
 + *Pamela* chapter summary (pdf)
 + *Pamela* 476-503
 + Social Media Lecture 3: Fictional Characters Make You Real
-+ Exercise 2 due; exercise 3 assigned
++ Exercise 2 due; [exercise 3](https://github.com/rbuurma/rise-2021/blob/main/Rise-2021/Assignments/Rise_assignment_3.md) assigned
 
 ##### September 17
 + Nancy Armstrong, from *Desire and Domestic Fiction*
@@ -292,18 +292,20 @@ While it is in no way necessary for you to read ANY of these additional texts (e
 #### Reading assignments
 Because novels are, almost by definition, long, some of our reading assignments will necessary be lengthy.  Weekly reading assignments will generally be between 150 and (much less often) 250 pages of novel (between about 25,000 and 100,000 words) and between 5 and 20 pages of secondary reading. We all read different texts in different ways at different rates; on average, a college student will probably read 30-40 pages of novel an hour and 10-20 pages of criticism an hour; this estimated average reading pace includes note-taking and some time for pausing, reflection, and rereading. So for example our first week you will read 50 pages of novel and five pages of criticism, and should therefore plan on 2-3 hours of reading. In our second week - an example of a longer assignment than ususal -  you will read 200 pages of novel and 15 pages of criticism, and so you should plan on setting aside 6-7 hours of reading. (All assignments for this class should more or less fit within the guideline of three hours of out of class work for every fifty minutes of in-class work; on average, a class that meets for three hours a week will require 9-10 hours of work outside the classroom on average.)
 
- I recommend that you look at the syllabus and plan to start reading longer assignments ahead of time. There may be reading quizzes – covering both novels and critical/theoretical readings - as necessary. There will also be optional reading labs.
+ I recommend that you look at the syllabus and plan to start reading longer assignments ahead of time. There may be reading quizzes – covering both novels and critical/theoretical readings - as necessary. There will also be optional reading labs. Readings that are not in the bookstore are available on Dropbox. 
 
 #### Exercises
-You will complete 8 short exercises designed to introduce you to some aspects of computationally-assisted literary study. No previous experience is required. They are graded as complete/incomplete, but cumulative excellent and creative work on them will be noticed and rewarded in your overall participation grade.
+You will complete 8 short exercises designed to introduce you to some aspects of computationally-assisted literary study. No previous experience is required. They are graded as complete/incomplete, but cumulative excellent and creative work on them will be noticed and rewarded in your overall participation grade. They are all available on https://github.com/rbuurma/rise-2021 in the "Assignments" folder; responses should be posted on our Wordpress site. 
 
 #### Informal writing and platforms: Wordpress, Google Docs, Dropbox
 
 https://www.rise2021.rachelsagnerbuurma.org/
 
-We will use this Wordpress site as the place we post our responses to the computational assignments; it is also our informal response-writing/link-and-image-sharing platform. I will invite you to create an account shortly. We will post our responses to exercises and other occasional short response assignments. You are also welcome - invited! encouraged! - to post links with comments, images, quick thoughts, etc as they occur to you. The site is projected by a password which I will give you in class, so it is accessible only to us and to anyone else you share the password with.
+We will use this Wordpress site as the place we post our responses to the computational assignments; it is also our informal response-writing/link-and-image-sharing platform. I will invite you to create an account shortly. We will post our responses to exercises and other occasional short response assignments. You are also welcome - invited! encouraged! - to post links with comments, images, quick thoughts, etc as they occur to you. The site is projected by a password which I will give you in class (temporary note: that pword is IanWatt), so it is accessible only to us and to anyone else you share the password with.
 
-We will use Google Docs will use for short writing assignments and drafts, and Dropbox for sharing reading files and for turning in papers and projects.
+To log in with your username and password, go here: https://www.rise2021.rachelsagnerbuurma.org/wp-login.php
+
+We will use **Google Docs** will use for short writing assignments and drafts, and **Dropbox** for sharing pdfs of readings and for turning in final drafts of papers and projects. Instructions for setting up your Google Doc will come via email. 
 
 #### Short paper
 This is a 4-5 page paper; it will focus on detailed readings of a single novel. A series of shorter writing assignments will lead up to it. Specifics of the assignment to be discussed further in class.
