@@ -83,7 +83,7 @@ Write a paragraph or two on some particularly interesting and suggestive finding
 
 ### More (optional and for the future)
 
-Voyant just scratches the surface of what we can do with existing text analysis tools and platforms. Two good older but still good sources for collections of text analysis platforms and recipes are Alan Liu's [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools#tools-text-analysis) and [Tapor2](http://www.tapor.ca/) - both are large collections of tools for finding, processing, and visualizing texts of different kinds. A newer and really excellent resource is the [HathiTrust Research Center](https://www.hathitrust.org/htrc), which makes tools available for performing text analysis on corpora created from the digtizied books and in [HathiTrust](https://www.hathitrust.org/). 
+Voyant just scratches the surface of what we can do with existing text analysis tools and platforms. Two good older but still good sources for collections of text analysis platforms and recipes are Alan Liu's [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools#tools-text-analysis) and [Tapor2](http://www.tapor.ca/) - both are large collections of tools for finding, processing, and visualizing texts of different kinds. A newer and really excellent resource is the [HathiTrust Research Center](https://www.hathitrust.org/htrc), which makes tools available for performing text analysis on corpora created from the digitized books and in [HathiTrust](https://www.hathitrust.org/). 
 
 ### Remember
 
