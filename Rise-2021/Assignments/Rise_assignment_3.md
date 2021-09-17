@@ -22,7 +22,7 @@ The second part of of this exercise ask you to use the collection of text analys
 
 Try to set aside a few hours for this assignment. You want to give yourself permission mess around with Voyant in an open-ended, non-goal-oriented way while still making sure you find something interesting to write about. *Consider taking some screen shots along the way to illustrate your write-up.*
 
-For additional instructions, here is the [Voyant documentation] (https://voyant-tools.org/docs/#!/guide/start); it includes links to additional tools you can use in Voyant (milage may vary) and tutorials.
+For additional instructions, here is the [Voyant documentation](https://voyant-tools.org/docs/#!/guide/start); it includes links to additional tools you can use in Voyant (milage may vary) and tutorials.
 
 #### Step 1
 
