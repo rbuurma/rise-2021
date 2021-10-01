@@ -86,7 +86,7 @@ This class is suggested for current and future readers, writers, critics, and re
 
 ##### September 22
 + *Shamela*, continued
-+ Exercise 3 due; exercise 4 assigned
++ Exercise 3 due
 
 ##### September 24
 + McKeon, "Generic Transformation and Social Change"
@@ -100,14 +100,13 @@ This class is suggested for current and future readers, writers, critics, and re
 
 ##### September 29
 + *Evelina*, 200-250
-+ Exercise 4, due; exercise 5 assigned
++ talk about *Tristram Shandy*
++ [Exercise 4](https://github.com/rbuurma/rise-2021/blob/main/Rise-2021/Assignments/Rise_assignment_4.md) assigned 
 + Social Media Lecture 4: Questions of Truth and Questions of Virtue Signaling
 
 ##### October 1
 + *Evelina*, 250-300
-+ tiny tiny bit of *Tristram Shandy*
 + Jurgen Habermas, from *The Structural Transformation of the Public Sphere*
-+ Exercise 4 write-up due
 
 **short paper thesis redraft, introduction, and title due Oct 3**
 
@@ -116,16 +115,16 @@ This class is suggested for current and future readers, writers, critics, and re
 ##### October 4
 +  Evelina, 300-450
 + Free indirect discourse and narrative monologue handout based on Cohn, *Transparent Minds* and Ferguson, "Jane Austen, Emma, and the Impact of Form"
-+ Exercise 5 assigned
 
 ##### October 6
 + Evelina, 300-450
 + Social Media Lecture 5: Privacy Policies
++ Exercise 4 write-up due; Exercise 5 assigned 
 
-##### October 8
-+ Short paper due by midnight
+##### October 8-17
++ Short paper due by midnight  - I recommend you turn it in before break! 
 
-**Short paper to Dropbox “short paper” folder by midnight on October 8th (or first thing October 9th, however you see it).**
+**Short paper to Dropbox “short paper” folder by midnight Oct 17 *at latest* - I recommend you turn it in before break!**
 
 ### Week 7: October Holiday
 Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
