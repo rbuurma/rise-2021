@@ -121,6 +121,10 @@ This class is suggested for current and future readers, writers, critics, and re
 + Social Media Lecture 5: Privacy Policies
 + Exercise 4 write-up due; Exercise 5 assigned 
 
+##### October 8
++ Evelina, continued 
++ Dorrit Cohn handout (Dropbox)
+
 ##### October 8-17
 + Short paper due by midnight  - I recommend you turn it in before break! 
 
