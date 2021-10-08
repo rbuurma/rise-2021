@@ -138,7 +138,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 ##### October 18
 + *Northanger Abbey*, 36-240 (all)
 + *A Woman of Color* (in Dropbox), pages 53-107, 188-189
-+ background: Peter Fryer, from *Staying Power: the History of Black People in Britain*; G. Carter Woodson, from "Some Attitudes in English Literature"
++ background (in class): Peter Fryer, from *Staying Power: the History of Black People in Britain*; G. Carter Woodson, from "Some Attitudes in English Literature"
 
 ##### October 20
 + *Northanger Abbey*, continued
