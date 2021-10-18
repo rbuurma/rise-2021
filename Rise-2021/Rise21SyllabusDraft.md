@@ -138,13 +138,14 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 ##### October 18
 + *Northanger Abbey*, 36-240 (all)
 + *A Woman of Color* (in Dropbox), pages 53-107, 188-189
++ mid-semester: review of where we have been and where we are going
 + background (in class): Peter Fryer, from *Staying Power: the History of Black People in Britain*; G. Carter Woodson, from "Some Attitudes in English Literature"
 
 ##### October 20
 + *Northanger Abbey*, continued
-+ Exercise 5 due; Exercise 6 assigned
++ Exercise 4 discussed; Exercise 5 assigned
++ Novel theory and social media: and introduction and reviw
 + reminder of Dorrit Cohn handout on narrated monologue and free indirect discourse
-+ Social Media Lecture 6: Other People Hold You in Mind
 
 ##### October 22
 + *Northanger Abbey*, continued
@@ -159,7 +160,9 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 
 ##### October 27
 + *The Moonstone*, continued
++ Social Media Lecture 6: Other People Hold You in Mind
 + final paper/project assigned
++ Exercise 5 due
 
 ##### October 29
 + Michel Foucault, from *Discipline and Punish*
@@ -172,7 +175,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 + Social Media Lecture 7: We Are Watched From Above
 
 ##### November 3
-+ Exercise 6 due; exercise 7 assigned
++ Exercise 6 assigned 
 + *The Moonstone*, continued
 + Edward Said, from *Orientalism*
 + Gretchen Gerzina, from *Black Victorians, Black Victoriana*
@@ -189,10 +192,10 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 ##### November 10
 + *Daisy Miller*, continued
 + Social Media Lecture 8: Novel Platforms
++ Exercise 6 due; Exercise 7 assigned
 
 ##### November 12
 + *Daisy Miller*, continued
-+ Exercise 7 due; Exercise 8 assigned
 + Jameson, "The Realist Floor-plan"
 
 ### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
@@ -217,7 +220,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 ##### November 24
 + *To The Lighthouse*, continued
 + **Social Media Lecture 8: The Realist Detail**
-+ Exercise 8 due
++ Exercise 7 due
 
 ##### November 26
 + Thanksgiving Break; read *There, There*
