@@ -156,7 +156,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 ### Week 9: *The Moonstone*
 
 ##### October 25
-+ *The Moonstone*, first half
++ *The Moonstone*, Penguin pages 10-257 (through Chapter VIII (8) in The Second Period)
 
 ##### October 27
 + *The Moonstone*, continued
