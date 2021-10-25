@@ -165,7 +165,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 + Exercise 5 due
 
 ##### October 29
-+ Michel Foucault, from *Discipline and Punish*
++ Michel Foucault, from *Discipline and Punish*; skim "Body of the Condemned," READ "Panopticism"
 + D.A. Miller, from *The Novel and the Police* (chapter 2, 41-45, 52-57)
 
 ### Week 10: *The Moonstone*, second half
