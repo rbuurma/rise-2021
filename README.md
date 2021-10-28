@@ -1,4 +1,4 @@
-# English 035: The Rise of the Novel, Fall 2019
+# English 035: The Rise of the Novel, Fall 2021
 ## assignments, computer-assisted text analysis exercises, and other materials for a mid-level undergraduate course on the history of the novel in English
 
 Why do we read novels? Why did people in the past read novels? How has the history of novel-reading shaped the way we think about ourselves, about other people, and about the world? In order to answer these questions, this course covers the long history of the novel in English considered as an aesthetic form, a record of social life, and a scaffolding on which which we build our experience of the world.
