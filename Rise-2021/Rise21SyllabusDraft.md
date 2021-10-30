@@ -143,7 +143,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 
 ##### October 20
 + *Northanger Abbey*, continued
-+ Exercise 4 discussed; Exercise 5 assigned
++ Exercise 4 discussed
 + Novel theory and social media: and introduction and reviw
 + reminder of Dorrit Cohn handout on narrated monologue and free indirect discourse
 
@@ -162,7 +162,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 + *The Moonstone*, continued
 + Social Media Lecture 6: Other People Hold You in Mind
 + final paper/project assigned
-+ Exercise 5 due
++ [Exercise 5](https://github.com/rbuurma/rise-2021/blob/main/Rise-2021/Assignments/Rise_assignment_5.md) assigned 
 
 ##### October 29
 + Michel Foucault, from *Discipline and Punish*; skim "Body of the Condemned," READ "Panopticism"
@@ -179,6 +179,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 + *The Moonstone*, continued
 + Edward Said, from *Orientalism*
 + Gretchen Gerzina, from *Black Victorians, Black Victoriana*
++ exercise 5 due
 
 ##### November 5
 + *The Moonstone*, continued
@@ -192,7 +193,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 ##### November 10
 + *Daisy Miller*, continued
 + Social Media Lecture 8: Novel Platforms
-+ Exercise 6 due; Exercise 7 assigned
++ Exercise 6 assigned 
 
 ##### November 12
 + *Daisy Miller*, continued
@@ -205,6 +206,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 
 ##### November 17
 + *To The Lighthouse*
++ exercise 6 due; exercise 7 assigned 
 
 ##### November 19
 + *To the Lighthouse*
@@ -232,7 +234,6 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 + N. Scott Momaday and Tom King, "Literature and the Native Writer"
 
 ##### December 1
-+ exercise 8 due
 + David Treuer, from *Native American Literature: A User's Guide*
 
 ##### December 3
