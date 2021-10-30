@@ -90,7 +90,7 @@ Complete this brief [tutorial](https://learnpythonthehardway.org/book/appendix-a
 
 Before we run the program, let's let's take a quick look at it.
 
-1. Download the [Rise-Assignment5Corpora](https://github.com/rbuurma/rise-2018/tree/master/Assignment_materials/Assignment8Corpora)repository into your own computer. Save it somewhere that makes sense to you. (Note that it will be labeled 2018/Assignment 8 - ignore this.)
+1. Download the [Rise-Assignment5Corpora](https://github.com/rbuurma/Rise18-Assignment8)repository into your own computer. Save it somewhere that makes sense to you. (Note that it will be labeled 2018/Assignment 8 - ignore this.)
 
 2. If you haven't already installed [the Atom code editor](https://atom.io/), do so now.
 
