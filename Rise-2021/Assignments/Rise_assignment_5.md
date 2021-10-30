@@ -73,7 +73,7 @@ Are either of these corpora a perfect representation of the "real" archive of al
 
 We will be running this program - written in the programming language Python - from the command line via your Terminal (on Mac) or PowerShell (on PC). The command line is simply a tool for viewing and interacting with the files and programs on your computer. In order to understand the basics of running Python programs if you have not worked with Python before, you will complete a tutorial.
 
-To run this program, you will need Python3. To check to see if you already have it installed ADD HERE
+To run this program, you will need Python3. To check to see if you already have it installed, open your terminal (on Mac) or your powershell (on Windows), type "python -V", and press enter. It will display the primary version of Python your computer has installed. 
 
 
 If you don't have Python 3 on your own computer, you should either come to one of our labs to use computers with Python 3 pre-installed, or you should install Python 3 on your computer. To do this, follow these instructions for [Mac](http://docs.python-guide.org/en/latest/starting/install3/osx/). For Windows 10 PC, download the [Windows x86-64 web-based installer](https://www.python.org/downloads/windows/) and follow the installation instructions.
