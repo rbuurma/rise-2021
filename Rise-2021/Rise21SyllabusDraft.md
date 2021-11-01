@@ -161,6 +161,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 ##### October 27
 + *The Moonstone*, continued
 + Social Media Lecture 6: Other People Hold You in Mind
++ Edward Said, from *Orientalism* (in class)
 + final paper/project assigned
 + [Exercise 5](https://github.com/rbuurma/rise-2021/blob/main/Rise-2021/Assignments/Rise_assignment_5.md) assigned 
 
@@ -177,13 +178,12 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 ##### November 3
 + Exercise 6 assigned 
 + *The Moonstone*, continued
-+ Edward Said, from *Orientalism*
-+ Gretchen Gerzina, from *Black Victorians, Black Victoriana*
 + exercise 5 due
 
 ##### November 5
 + *The Moonstone*, continued
 + Roland Barthes, "The Reality Effect"
++ + Gretchen Gerzina, from *Black Victorians, Black Victoriana* (in class)
 
 ### Week 11: Henry James, *Daisy Miller*
 
