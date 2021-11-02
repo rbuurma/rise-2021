@@ -149,7 +149,7 @@ The number of words that must appear in both corpora for the word to appear at a
 
 In his book Nabokov’s *Favorite Word is Mauve*, data journalist Ben Blatt notes that Jane Austen’s “use of words like "very" is off the charts,” and gives an example:
 
-![Blatt quote](/Images/BlattAustenQuote.jpg)
+![Blatt quote](https://raw.githubusercontent.com/rbuurma/rise-2018/master/Images/BlattAustenQuote.jpg)
 
 Based on only what you see here, what is potentially wrong with Blatt’s example? Might what is wrong with this example be a symptom of what else might go wrong with the computational text analysis of literature when a literary critic is not involved? Explain the basic literary critical concept(s) Blatt fails to take into account here.
 
