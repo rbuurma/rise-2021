@@ -202,7 +202,7 @@ Note: read *Northanger Abbey* and long selection from *A Woman of Color*.
 ### Week 12: Virginia Woolf, *To The Lighthouse* (1927)
 
 ##### November 15
-+ *To The Lighthouse* first half
++ *To The Lighthouse*, 3-125
 
 ##### November 17
 + *To The Lighthouse*
