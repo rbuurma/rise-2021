@@ -1,4 +1,4 @@
-# Topic Modeling the 1760s (Exercise 7)
+# Topic Modeling the 1760s (Exercise 6)
 
 + OPTIONAL
 + Lab Saturday, 3-5 pm, McCabe Computer Classroom (third floor)
