@@ -1,8 +1,7 @@
 # Topic Modeling the 1760s (Exercise 7)
 
-+ Check-in on Wednesday, Nov 13, 2019 (try to to have done all of the steps of the assignment including at least one iteration of training topics by then in order to run into bugs, generate questions, etc)
-+ Writeup due before class Friday, November 15th, 2019
-+ Lab Sunday as usual
++ OPTIONAL
++ Lab Saturday, 3-5 pm, McCabe Computer Classroom (third floor)
 + Estimated time: 2 hours
 
 ### What is topic modeling?
