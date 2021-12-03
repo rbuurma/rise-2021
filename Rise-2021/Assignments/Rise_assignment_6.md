@@ -6,9 +6,9 @@
 
 ### What is topic modeling?
 
-Topic modeling has become popular among humanists seeking to learn about sets of documents (novels, plays, short stories, journals, newspaper articles) too large for a person to read. It uses an algorithm designed to discover what words have a high probability of co-occurring with other words across the entire set of documents. The enabling assumption of topic modeling is that each document is composed out of a percentage of the topics. Of course, this is not in fact the case - the topics are, of course, derived from the documents in a kind of counter-factual reverse-engineering. (More on this in class.)
+Topic modeling has become popular among humanists seeking to learn about sets of documents (novels, plays, short stories, journals, newspaper articles) too large for a person to read. It uses an algorithm designed to discover what words have a high probability of co-occurring with other words across the entire set of documents. The enabling assumption of topic modeling is that each document is composed out of a percentage of the topics. Of course, this is not in fact the case - the topics are, of course, derived from the documents in a kind of counter-factual reverse-engineering. ([Here](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/#:~:text=Topic%20modeling%20provides%20a%20suite,collection%20of%20texts%20as%20input) is a more detailed generalist explanation of topic modeling.)
 
-Crucially, topic modeling doesn’t have any semantic inputs – it doesn’t know ahead of time anything about the meanings of the words it is looking at (in fact, as far as the algorithm understands, it is looking at numbers). You just provide the documents and tell the program how many topics to “train” or create, set a few other parameters, set a stopword list if you like, and the algorithm does the rest.
+Crucially, topic modeling doesn’t have any semantic inputs – it doesn’t know ahead of time anything about the meanings of the words it is looking at. In fact, as far as the algorithm understands, it is looking at numbers. You just provide the documents and tell the program how many topics to “train” or create, set a few other parameters, set a stopword list if you like, and the algorithm does the rest.
 
 Once you run the topic modeling program on your set of documents, it gives you some outputs. We will be using MALLET, which will give you a list of groups of words that co-occur (“topics”).  MALLET also gives you a spreadsheet showing what percentage of each topic occurs in each document. It’s then up to us to interpret or label the “topics.”  Some will be fairly obvious. But some of the topics are more ambiguous, and thus in some ways more interesting.
 
@@ -16,11 +16,9 @@ The second output MALLET gives you is a spreadsheet telling you what percentage 
 
 ### Preparing Your Corpus
 
-We will be returning to the 1760s in this assignment, the decade of *Tristram Shandy* and of the continued reception of novels like *Pamela*.  Our working corpus is comprised of 41 titles printed during the 1760s, in a total of 61 volumes. A little under half are new editions of novels first published in previous decades, such as *Pamela*. Thus, this corpus gives us a sense of the mid-eighteenth-century literary field of the 1760s.
+We will be returning to the 1760s in this assignment, the decade of *Tristram Shandy* and of the continued reception of novels like *Pamela*.  Our working corpus is comprised of 41 titles printed during the 1760s, in a total of 61 volumes. A little under half are new editions of novels first published in previous decades, such as *Pamela*. Thus, this corpus gives us a sense of the mid-eighteenth-century literary field of the 1760s - not just of what was published in that decade, but of recent books that were still in print and being read.
 
 ### Topic Modeling 41 Works of Fiction from the 1760s
-
-**NOTE:** If you have any issues downloading or running Topic Modeling Tool, feel free to use any of the 6 iMac workstations in the public computing area in McCabe Library.
 
 These directions have been lightly adapted from Annie Swafford’s excellent [“Topic Modeling assignment”](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/) for her Digital Tools for the 21st Century: Sherlock Holmes's London class (SUNY New Paltz, Spring 2015).
 
@@ -44,9 +42,9 @@ For this response, we will focus on looking at and labeling the topics, but you 
 
 Then write just a few paragraphs, thinking about some of the following questions:
 
-Do the topics remind you of anything that arose for us in class when we studied eighteeth-century novels?  Can you connect any of the topics you have labeled to bigger arguments about the novel by Watt, McKeon, Armstrong, Habermas, Anderson, or Barthes?
+Do the topics remind you of anything that arose for us in class when we studied eighteeth-century novels?  Can you connect any of the topics you have labeled to bigger arguments about the novel by Watt, Gallagher, McKeon, Armstrong, Habermas, Anderson, or Barthes?
 
-Also possibly of interest: is there any apparent relation between what Barthes is arguing in “The Reality Effect” and what we are doing when we topic model 1760s novels? Specifically, you may notice that topic modeling’s treatment of documents as “bags of words” and the way we tend to prefer nouns when we apply a stoplist (sometimes - we will discuss the stopword process more in class) almost makes the novel seem like ALL reality effect. Thoughts about this?
+Also possibly of interest: is there any apparent relation between what Barthes is arguing in “The Reality Effect” and what we are doing when we topic model 1760s novels? Specifically, you may notice that topic modeling’s treatment of documents as “bags of words” and the way we tend to prefer nouns when we apply a stoplist almost makes the novel seem like ALL reality effect. Thoughts about this?
 
 ### Further optional reading
 
